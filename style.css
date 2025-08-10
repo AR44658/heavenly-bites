@@ -21,13 +21,13 @@ header .logo {
 nav a {
     margin: 0 10px;
     text-decoration: none;
-    color: #F3E2D4;
+    color: #5a3e36;
     font-weight: bold;
 }
 
 .hero {
     background: url('hero.jpg') center/cover no-repeat;
-    color: white;
+    color: rgb(66, 109, 152);
     text-align: center;
     padding: 100px 20px;
 }
